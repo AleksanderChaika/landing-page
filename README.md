@@ -17,7 +17,6 @@ https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=681
 * **SCSS (Sass)** – Styling and responsive layouts
 * **CSS Grid & Flexbox** – Modern layout techniques
 * **BEM Methodology** – Scalable and maintainable CSS architecture
-* **Vite** – Development server and build tool
 * **ESLint & Stylelint** – Code quality and consistency
 
 ## Getting Started
